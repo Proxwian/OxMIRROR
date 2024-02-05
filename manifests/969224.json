@@ -1,0 +1,19 @@
+{
+    "files": [
+        {
+            "id": "antique-atlas-reborn-1.20.1-9.2.1",
+            "name": "AntiqueAtlas-1.20.1",
+            "classId": 0
+        },
+        {
+            "id": "thedawnera-1.20.1-0.64",
+            "name": "TheDawnEra-1.20.1-0.64",
+            "classId": 0
+        },
+        {
+            "id": "astemirlib-1.20.1-1.25",
+            "name": "AstemirLib-1.20.1-1.25",
+            "classId": 0
+        }
+    ]
+}
