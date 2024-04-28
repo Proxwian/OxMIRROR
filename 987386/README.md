@@ -1,4 +1,5 @@
-## TFC Metal Items (Forge)
-https://www.curseforge.com/minecraft/mc-mods/tfc-metal-items
+## Epic Knights Japanese Armory Addon (Forge)
+https://www.curseforge.com/minecraft/mc-mods/epic-knights-japanese-armory
 
-- **5268460** - tfc-metal-items-1.20.1-forge-1.0.0.jar
+- **5262480** - [1.20.1-forge]-Epic-Knights-Japanese-Armory-1.6.1.jar
+- **5294116** - [1.20.1-forge]-Epic-Knights-Japanese-Armory-1.6.2.jar
