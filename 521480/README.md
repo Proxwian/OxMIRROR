@@ -9,3 +9,4 @@ https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d
 - **5429204** - skinlayers3d-forge-1.6.6-mc1.20.1.jar
 - **5647097** - skinlayers3d-forge-1.6.7-mc1.20.1.jar
 - **5905495** - skinlayers3d-forge-1.7.2-mc1.20.1.jar
+- **5970916** - skinlayers3d-forge-1.7.4-mc1.20.1.jar
