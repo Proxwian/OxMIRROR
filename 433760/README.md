@@ -11,3 +11,4 @@ Downloads:
 - **5429265** - notenoughanimations-forge-1.7.4-mc1.20.1.jar
 - **5698665** - notenoughanimations-forge-1.7.6-mc1.20.1.jar
 - **5895033** - notenoughanimations-forge-1.8.1-mc1.20.1.jar
+- **6019988** - notenoughanimations-forge-1.9.0-mc1.20.1.jar
